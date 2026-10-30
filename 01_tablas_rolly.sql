@@ -1,7 +1,6 @@
 -- =========================================================================
 -- ARCHIVO: 01_tablas_rolly.sql
 -- PROYECTO: Sistema de Gestión y Auditoría de Tienda ROLLY
--- MOTOR: Oracle Database 12c o superior
 -- =========================================================================
 
 SET SERVEROUTPUT ON;
